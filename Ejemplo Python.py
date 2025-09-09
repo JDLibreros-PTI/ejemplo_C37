@@ -1,2 +1,4 @@
+x = input("Ingresa tu nombre: ")
+
 for _ in range(5):
-    print("Hola Mundo")
+    print(f"Hola {x}!")
