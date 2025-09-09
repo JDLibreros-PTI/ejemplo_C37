@@ -1,2 +1,2 @@
 Hola Alumnos de la corte 37
-Implementando ramas con GIT
+Implementando ramas con GIT junto a la corte 37 de PTI
